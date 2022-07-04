@@ -1,0 +1,83 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+.top-banner {
+    display: flex;
+}
+
+.half-width h1 {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.half-width p {
+    text-align: justify;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.order-food {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-size: medium;
+    font-weight: 800;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.middle-banner {
+    background-image: url(images/shapes/7.png);
+    display: flex;
+    background-repeat: no-repeat;
+
+}
+
+.middle-half-width {
+    width: 50%;
+    padding-right: 10px;
+}
+
+.middle-half-width img {
+    width: 50%;
+}
+
+.middle-half-width h1 {
+    padding-top: 100px;
+}
+
+.contact-me {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-size: medium;
+    font-weight: 800;
+    padding: 10px 30px;
+    border-radius: 10px;
+
+
+}
+
+.middle-half-width p {
+    text-align: justify;
+    padding-right: 60px;
+    padding-bottom: 50px;
+}
