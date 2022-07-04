@@ -49,6 +49,7 @@ section {
     display: flex;
     background-repeat: no-repeat;
 
+
 }
 
 .middle-half-width {
@@ -80,4 +81,66 @@ section {
     text-align: justify;
     padding-right: 60px;
     padding-bottom: 50px;
+}
+
+.recipies {
+    text-align: center;
+}
+
+.recipies p {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.bottom-container {
+    display: flex;
+    padding-left: 10px;
+
+
+}
+
+.bottom-half-width {
+
+    padding-left: 60px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+.bottom-half-width p {
+    padding-right: 60px;
+}
+
+.bottom-image {
+    padding-top: 40px;
+    display: block;
+
+    margin-right: auto;
+    width: 90%;
+}
+
+.last-banner {
+    display: flex;
+    text-align: center;
+    padding-left: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    margin-left: 6%;
+
+    box-shadow: 10px 10px 40px gray;
+}
+
+
+
+.b {
+    padding-left: 20%;
+}
+
+.c {
+    padding-left: 20%;
 }
