@@ -9,12 +9,15 @@ section {
 
 .top-banner {
     display: flex;
+    padding-top: 5%;
 }
 
 .half-width h1 {
     font-size: 30px;
     font-weight: 900;
+    line-height: .6;
 }
+
 
 .half-width {
     width: 50%;
@@ -143,4 +146,16 @@ section {
 
 .c {
     padding-left: 20%;
+}
+
+footer {
+    background-color: rgb(9, 7, 36);
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.eat-fresh {
+    color: tomato;
 }
